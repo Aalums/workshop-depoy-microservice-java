@@ -1,4 +1,4 @@
-[My Docker-Hub](https://hub.docker.com/u/aalums)
+[My Docker Hub](https://hub.docker.com/u/aalums)
 
 [![Build Status](https://travis-ci.org/Aalums/workshop-depoy-microservice-java.svg?branch=master)](https://travis-ci.org/Aalums/workshop-depoy-microservice-java)
 
